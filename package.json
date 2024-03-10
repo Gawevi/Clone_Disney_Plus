@@ -1,0 +1,26 @@
+{
+  "name": "clone_disney_plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gawevi/Clone_Disney_Plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gawevi/Clone_Disney_Plus/issues"
+  },
+  "homepage": "https://github.com/Gawevi/Clone_Disney_Plus#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.71.1"
+  }
+}
